@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.p-color {
+  color: #3b82f6;
+}
+
+.s-color {
+  color: rgb(235, 238, 240) !important;
+}
+
+.bp-color {
+  background-color: #3b82f6;
+}
+
+.bs-color {
+  background-color: rgb(235, 238, 240);
+}
+
+h3 {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+}
